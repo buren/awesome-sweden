@@ -9,7 +9,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 - [Job Market](#job-market)
 - [Misc](#misc)
 
-A [wish list](#wist list) of things we'd like to see libraries for.
+:exclamation: A __[wish list](#wist-list)__ of things we'd like to see libraries for.
 
 :information_source: If you're looking to add a library please check the [contributing guide](#contributing).
 
