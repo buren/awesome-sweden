@@ -54,6 +54,8 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [Ruby](https://github.com/sandelius/bilvision)
 - [MMS](http://mms.se/) API client (analyzes TV consumption in Sweden)
   + [Go](https://github.com/TV4/mms)
+- Translates SAB (Swedish library classification system) codes to, human readable, Swedish subject
+  + [Ruby](https://github.com/c7/ur-sab)
 
 ## Wish list
 
