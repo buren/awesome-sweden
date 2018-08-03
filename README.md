@@ -8,7 +8,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 - [People](#people)
 - [Job Market](#job-market)
 - [Misc](#misc)
-- A __[wish list](#wist-list)__ of things we'd like to see libraries for
+- A __[wish list](#wish-list)__ of things we'd like to see libraries for
 
 :information_source: If you're looking to add a library please check the [contributing guide](#contributing).
 
@@ -63,6 +63,7 @@ Libraries we wished existed.
 
 - Bank account validation in more languages than Ruby
 - BankID tools
+- Stockholm API - http://api.stockholm.se/dokumentation/
 - Zip/Postnummer reverse lookup
 - ... anything you'd like to add?
 
