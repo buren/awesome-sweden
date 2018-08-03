@@ -1,4 +1,4 @@
-# Swedish [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) list
+# Sweden [![awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) list
 
 A curated list of awesome things to use when coding for the Swedish market.
 
@@ -8,16 +8,24 @@ A curated list of awesome things to use when coding for the Swedish market.
 - [People](#people)
 - [Job Market](#job-market)
 - [Misc](#misc)
-
-:exclamation: A __[wish list](#wist-list)__ of things we'd like to see libraries for.
+- A __[wish list](#wist-list)__ of things we'd like to see libraries for
 
 :information_source: If you're looking to add a library please check the [contributing guide](#contributing).
 
 ## People
 
-- Validate Swedish "personnummer"/SSN
-  + [Ruby](https://github.com/c7/personnummer)
+- Validate Swedish SSN/personnummer
+  + [Ruby](https://github.com/c7/personnummer) (well tested)
+  + [Ruby](https://github.com/personnummer/ruby)
   + [JavaScript](https://github.com/arokor/pernr)
+  + [JavaScript](https://github.com/personnummer/js)
+  + [Python](https://github.com/personnummer/python)
+  + [PHP](https://github.com/personnummer/php)
+  + [Swift](https://github.com/personnummer/swift)
+  + [Java](https://github.com/personnummer/java)
+  + [C#](https://github.com/personnummer/csharp)
+  + [Go](https://github.com/personnummer/go)
+  + Various other implementations are available under [this GitHub organization](https://github.com/personnummer), please note that some listed there are still WIP.
 
 ## Finance
 
@@ -52,8 +60,9 @@ A curated list of awesome things to use when coding for the Swedish market.
 Libraries we wished existed.
 
 - Bank account validation in more languages than Ruby
-- SSN/"personnummer" validation in more languages than Ruby
-- ... (anything you'd like to add?)
+- BankID tools
+- Zip/Postnummer reverse lookup
+- ... anything you'd like to add?
 
 ## Contributing
 
