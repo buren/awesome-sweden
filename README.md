@@ -48,6 +48,11 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [JavaScript](https://github.com/othermachines/platsbanken-vacancy)
   + [Ruby](https://github.com/buren/arbetsformedlingen)
 
+## Regional
+
+- Stockholm API
+  + [JavaScript](https://github.com/buren/stockholm-api)
+
 ## Misc
 
 - API client for Bilvision API (car register service a.k.a "Bilregistertjänst")
@@ -63,7 +68,6 @@ Libraries we wished existed.
 
 - Bank account validation in more languages than Ruby
 - BankID tools
-- [Stockholm API](http://api.stockholm.se/dokumentation/)
 - [Swedish Police events API](https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/)
 - Zip/Postnummer reverse lookup
 - ... anything you'd like to add?
