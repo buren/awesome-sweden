@@ -4,9 +4,12 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 ## Content
 
-- [Finance](#finance)
 - [People](#people)
+- [Finance](#finance)
 - [Job Market](#job-market)
+- [Transportation](#transportation)
+- [Media](#media)
+- [Regional](#regional)
 - [Misc](#misc)
 - A __[wish list](#wish-list)__ of things we'd like to see libraries for
 
@@ -21,11 +24,16 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [JavaScript](https://github.com/personnummer/js)
   + [Python](https://github.com/personnummer/python)
   + [PHP](https://github.com/personnummer/php)
+  + [PHP](https://github.com/byrokrat/id)
   + [Swift](https://github.com/personnummer/swift)
   + [Java](https://github.com/personnummer/java)
   + [C#](https://github.com/personnummer/csharp)
   + [Go](https://github.com/personnummer/go)
   + Various other implementations are available under [this GitHub organization](https://github.com/personnummer), please note that some listed there are still WIP.
+- Validate Swedish organization number/organisationsnummer
+  + [Ruby](https://github.com/mirendo/orgnummer)
+  + [JavaScript][https://github.com/perarnborg/se-org-no]
+  + [PHP](https://github.com/byrokrat/id)
 
 ## Finance
 
@@ -48,6 +56,22 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [JavaScript](https://github.com/othermachines/platsbanken-vacancy)
   + [Ruby](https://github.com/buren/arbetsformedlingen)
 
+## Transportation
+
+- Trafikverket API
+  + [JavaScript](https://github.com/eduardoportilho/trafikverket)
+- API client for Bilvision API (car register service a.k.a "Bilregistertjänst")
+  + [Ruby](https://github.com/sandelius/bilvision)
+
+## Media
+
+- Sveriges Radio API
+  + [JavaScript (CLI)](https://github.com/ollelauribostrom/sverigesradio)
+- [MMS](http://mms.se/) API client (analyzes TV consumption in Sweden)
+  + [Go](https://github.com/TV4/mms)
+- Translates SAB (Swedish library classification system) codes to, human readable, Swedish subject
+  + [Ruby](https://github.com/c7/ur-sab)
+
 ## Regional
 
 - Stockholm API
@@ -55,21 +79,22 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 ## Misc
 
-- API client for Bilvision API (car register service a.k.a "Bilregistertjänst")
-  + [Ruby](https://github.com/sandelius/bilvision)
-- [MMS](http://mms.se/) API client (analyzes TV consumption in Sweden)
-  + [Go](https://github.com/TV4/mms)
-- Translates SAB (Swedish library classification system) codes to, human readable, Swedish subject
-  + [Ruby](https://github.com/c7/ur-sab)
+- Polisen API
+  + [JavaScript](https://github.com/buren/polisen-api) - events and police stations
+- SCB API (Statistiska Centralbyrån)
+  + [JavaScript](https://www.npmjs.com/package/scb-api)
+  + [Ruby](https://github.com/peterhellberg/scb)
 
 ## Wish list
 
-Libraries we wished existed.
+Libraries and other things we wished existed or haven't heard of yet.
 
 - Bank account validation in more languages than Ruby
 - BankID tools
-- [Swedish Police events API](https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/)
 - Zip/Postnummer reverse lookup
+- API Clients
+  + [Statistikdatabasen](http://www.scb.se/om-scb/om-scb.se-och-anvandningsvillkor/oppna-data-api/api-for-statistikdatabasen/) (SCB)
+  + APIs listed at https://www.trafiklab.se/api
 - ... anything you'd like to add?
 
 ## Contributing
