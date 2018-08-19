@@ -32,7 +32,7 @@ A curated list of awesome things to use when coding for the Swedish market.
   + Various other implementations are available under [this GitHub organization](https://github.com/personnummer), please note that some listed there are still WIP.
 - Validate Swedish organization number/organisationsnummer
   + [Ruby](https://github.com/mirendo/orgnummer)
-  + [JavaScript][https://github.com/perarnborg/se-org-no]
+  + [JavaScript](https://github.com/perarnborg/se-org-no)
   + [PHP](https://github.com/byrokrat/id)
 
 ## Finance
