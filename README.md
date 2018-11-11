@@ -17,7 +17,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 ## People
 
-- Validate Swedish SSN/personnummer
+- Validate Swedish Personal Identity Number (personnummer / SSN)
   + [Ruby](https://github.com/c7/personnummer) (well tested)
   + [Ruby](https://github.com/personnummer/ruby)
   + [JavaScript](https://github.com/arokor/pernr)
@@ -27,7 +27,7 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [PHP](https://github.com/byrokrat/id)
   + [Swift](https://github.com/personnummer/swift)
   + [Java](https://github.com/personnummer/java)
-  + [C#](https://github.com/personnummer/csharp)
+  + [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Identity) (Also parses and normalizes the Personal Identity Number)
   + [Go](https://github.com/personnummer/go)
   + Various other implementations are available under [this GitHub organization](https://github.com/personnummer), please note that some listed there are still WIP.
 - Validate Swedish organization number/organisationsnummer
@@ -45,7 +45,14 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [Ruby](https://github.com/barsoom/debitech)
 - Parse and generate SIE-files (open format for accounting data)
   + [Ruby](https://github.com/barsoom/sie)
+  
+# Authentication
 
+- Authentication using BankID
+ + [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) (With authentication handler for ASP.NET)
+- Authentication using GrandID (Svensk E-Identitet)
+ + [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) (With authentication handler for ASP.NET)
+ 
 ## Job market
 
 - Build a feed for Metrojobb
