@@ -49,9 +49,9 @@ A curated list of awesome things to use when coding for the Swedish market.
 # Authentication
 
 - Authentication using BankID
- + [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) (With authentication handler for ASP.NET)
+  + [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) (With authentication handler for ASP.NET)
 - Authentication using GrandID (Svensk E-Identitet)
- + [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) (With authentication handler for ASP.NET)
+  + [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) (With authentication handler for ASP.NET)
  
 ## Job market
 
