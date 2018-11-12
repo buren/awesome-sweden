@@ -6,6 +6,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 - [People](#people)
 - [Finance](#finance)
+- [Authentication](#authentication)
 - [Job Market](#job-market)
 - [Transportation](#transportation)
 - [Media](#media)
@@ -46,7 +47,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 - Parse and generate SIE-files (open format for accounting data)
   + [Ruby](https://github.com/barsoom/sie)
   
-# Authentication
+## Authentication
 
 - Authentication using BankID
   + [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) (With authentication handler for ASP.NET)
