@@ -1,5 +1,7 @@
 #!/bin/bash
 
-command -v verify_urls >/dev/null 2>&1 || gem install verify_urls
+command -v verify_urls >/dev/null 2>&1   || \
+  echo '$ gem install verify_urls'       && \
+  gem install verify_urls
 
 verify_urls --file=README.md --format=markdown --error-failed
