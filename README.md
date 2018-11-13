@@ -13,9 +13,12 @@ A curated list of awesome things to use when coding for the Swedish market.
 - [Regional](#regional)
 - [Geographic](#geographic)
 - [Misc](#misc)
+- :link: [Awesome Sweden Datasets](https://github.com/buren/awesome-sweden-datasets)
 - A __[wish list](#wish-list)__ of things we'd like to see libraries for
 
-:information_source: If you're looking to add a library please check the [contributing guide](#contributing).
+:information_source:
+- Looking for datasets? See [Awesome Sweden Datasets](https://github.com/buren/awesome-sweden-datasets).
+- If you're looking to add a library please check the [contributing guide](#contributing).
 
 ## People
 
@@ -124,6 +127,8 @@ Libraries and other things we wished existed or haven't heard of yet.
 ## Contributing
 
 Contributions, feedback and suggestions are very welcome.
+
+:information_source: Looking to add a dataset? See [Awesome Sweden Datasets](https://github.com/buren/awesome-sweden-datasets).
 
 __Before you start, make sure__
 
