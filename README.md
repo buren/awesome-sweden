@@ -1,4 +1,4 @@
-# Sweden [![awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) list
+# Sweden [![awesome](https://awesome.re/badge-flat.svg)](https://github.com/buren/awesome-sweden) list
 
 A curated list of awesome things to use when coding for the Swedish market.
 
