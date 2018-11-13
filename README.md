@@ -95,6 +95,10 @@ A curated list of awesome things to use when coding for the Swedish market.
 - SCB API (Statistiska Centralbyrån)
   + [JavaScript](https://www.npmjs.com/package/scb-api)
   + [Ruby](https://github.com/peterhellberg/scb)
+- SMHI API
+  + [C#](https://github.com/piksel/SMHISharp)
+  + [JavaScript](https://github.com/thelinmichael/smhi-node)
+  + [JavaScript](https://github.com/peterstark72/smhi-nodejs)
 
 ## Wish list
 
