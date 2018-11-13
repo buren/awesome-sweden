@@ -11,6 +11,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 - [Transportation](#transportation)
 - [Media](#media)
 - [Regional](#regional)
+- [Geographic](#geographic)
 - [Misc](#misc)
 - A __[wish list](#wish-list)__ of things we'd like to see libraries for
 
@@ -87,6 +88,11 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 - Stockholm API
   + [JavaScript](https://github.com/buren/stockholm-api)
+
+## Geographic
+
+- [SWEREF99 TM (EPSG:3006)](https://epsg.io/3006) projected coordinate system
+  + [JavaScript](https://kartena.github.io/Proj4Leaflet)
 
 ## Misc
 
