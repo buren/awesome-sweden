@@ -35,6 +35,9 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [Ruby](https://github.com/mirendo/orgnummer)
   + [JavaScript](https://github.com/perarnborg/se-org-no)
   + [PHP](https://github.com/byrokrat/id)
+- Statenspersonadressregister
+  + [JavaScript](https://github.com/Yepstr/node-statenspersonadressregister)
+  + [Reference implementations (PHP/C#/Java)](https://github.com/Statenspersonadressregister)
 
 ## Finance
 
@@ -46,14 +49,14 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [Ruby](https://github.com/barsoom/debitech)
 - Parse and generate SIE-files (open format for accounting data)
   + [Ruby](https://github.com/barsoom/sie)
-  
+
 ## Authentication
 
 - Authentication using BankID
   + [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) (With authentication handler for ASP.NET)
 - Authentication using GrandID (Svensk E-Identitet)
   + [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) (With authentication handler for ASP.NET)
- 
+
 ## Job market
 
 - Build a feed for Metrojobb
