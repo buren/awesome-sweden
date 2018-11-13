@@ -105,11 +105,14 @@ A curated list of awesome things to use when coding for the Swedish market.
 Libraries and other things we wished existed or haven't heard of yet.
 
 - Bank account validation in more languages than Ruby
-- BankID tools
+- BankID tools in more languages
+- [Swish](https://www.getswish.se/)
 - Zip/Postnummer reverse lookup
 - API Clients
   + [Statistikdatabasen](http://www.scb.se/om-scb/om-scb.se-och-anvandningsvillkor/oppna-data-api/api-for-statistikdatabasen/) (SCB)
   + APIs listed at https://www.trafiklab.se/api
+- Hemnet & Booli API
+- PostNord API
 - ... anything you'd like to add?
 
 ## Contributing
