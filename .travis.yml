@@ -1,0 +1,5 @@
+language: ruby
+install:
+  - gem install verify_urls
+script:
+  - verify_urls --file=README.md --error-failed

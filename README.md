@@ -153,3 +153,7 @@ then
 ## License
 
 [Creative Commons CC0](LICENSE).
+
+---
+
+[![Build Status](https://travis-ci.com/buren/awesome-sweden.svg?branch=master)](https://travis-ci.com/buren/awesome-sweden) passing build means all URLs are 200.
