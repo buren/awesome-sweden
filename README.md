@@ -9,9 +9,9 @@ A curated list of awesome things to use when coding for the Swedish market.
 - [Authentication](#authentication)
 - [Job Market](#job-market)
 - [Transportation](#transportation)
-- [Media](#media)
 - [Regional](#regional)
 - [Geographic](#geographic)
+- [Media](#media)
 - [Misc](#misc)
 - :link: [Awesome Sweden Datasets](https://github.com/buren/awesome-sweden-datasets)
 - A __[wish list](#wish-list)__ of things we'd like to see libraries for
@@ -80,15 +80,6 @@ A curated list of awesome things to use when coding for the Swedish market.
 - Västtrafik API
   + [JavaScript](https://github.com/oskarhagberg/node-vasttrafik)
 
-## Media
-
-- Sveriges Radio API
-  + [JavaScript (CLI)](https://github.com/ollelauribostrom/sverigesradio)
-- [MMS](http://mms.se/) API client (analyzes TV consumption in Sweden)
-  + [Go](https://github.com/TV4/mms)
-- Translates SAB (Swedish library classification system) codes to, human readable, Swedish subject
-  + [Ruby](https://github.com/c7/ur-sab)
-
 ## Regional
 
 - Stockholm API
@@ -100,6 +91,15 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 - [SWEREF99 TM (EPSG:3006)](https://epsg.io/3006) projected coordinate system
   + [JavaScript](https://kartena.github.io/Proj4Leaflet)
+
+## Media
+
+- Sveriges Radio API
+  + [JavaScript (CLI)](https://github.com/ollelauribostrom/sverigesradio)
+- [MMS](http://mms.se/) API client (analyzes TV consumption in Sweden)
+  + [Go](https://github.com/TV4/mms)
+- Translates SAB (Swedish library classification system) codes to, human readable, Swedish subject
+  + [Ruby](https://github.com/c7/ur-sab)
 
 ## Misc
 
