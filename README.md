@@ -65,7 +65,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 - Build a feed for Metrojobb
   + [Ruby](https://github.com/buren/metrojobb)
-- API client for Arbetsförmedlingen
+- Arbetsförmedlingen API
   + [Ruby](https://github.com/buren/arbetsformedlingen)
 - Post jobs to Arbetsförmedlingen
   + [JavaScript](https://github.com/othermachines/platsbanken-vacancy)
@@ -75,7 +75,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 - Trafikverket API
   + [JavaScript](https://github.com/eduardoportilho/trafikverket)
-- API client for Bilvision API (car register service a.k.a "Bilregistertjänst")
+- Bilvision API (car register service a.k.a "Bilregistertjänst")
   + [Ruby](https://github.com/sandelius/bilvision)
 - Västtrafik API
   + [JavaScript](https://github.com/oskarhagberg/node-vasttrafik)
