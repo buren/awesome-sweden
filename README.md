@@ -77,6 +77,8 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [JavaScript](https://github.com/eduardoportilho/trafikverket)
 - API client for Bilvision API (car register service a.k.a "Bilregistertjänst")
   + [Ruby](https://github.com/sandelius/bilvision)
+- Västtrafik API
+  + [JavaScript](https://github.com/oskarhagberg/node-vasttrafik)
 
 ## Media
 
@@ -91,6 +93,8 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 - Stockholm API
   + [JavaScript](https://github.com/buren/stockholm-api)
+- Göteborg (Gothenburg) API
+  + [JavaScript](https://github.com/oskarhagberg/gbgcity)
 
 ## Geographic
 
