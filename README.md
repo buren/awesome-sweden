@@ -45,6 +45,8 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 ## Finance
 
+- Swish Merchant API
+  + [Go](https://github.com/frozzare/go-swish)
 - Validate Swedish bank accounts
   + [Ruby](https://github.com/barsoom/banktools-se)
 - Make BGC supplier payment files (a.k.a "leverantörsbetalningar")
