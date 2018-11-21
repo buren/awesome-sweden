@@ -73,14 +73,19 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 ## Transportation
 
+- SL API
+  + [JavaScript](https://github.com/simon-johansson/SL-api)
+  + [Go](https://github.com/frozzare/go-sl)
+- Västtrafik API
+  + [JavaScript](https://github.com/oskarhagberg/node-vasttrafik)
 - Trafikverket API
   + [JavaScript](https://github.com/eduardoportilho/trafikverket)
 - Bilvision API (car register service a.k.a "Bilregistertjänst")
   + [Ruby](https://github.com/sandelius/bilvision)
-- Västtrafik API
-  + [JavaScript](https://github.com/oskarhagberg/node-vasttrafik)
 
 ## Regional
+
+:information_source: see the [transportation](#transportation) section for regional transportation.
 
 - Stockholm API
   + [JavaScript](https://github.com/buren/stockholm-api)
