@@ -25,6 +25,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 - Validate Swedish Personal Identity Number (personnummer / SSN)
   + [Ruby](https://github.com/c7/personnummer) (well tested)
   + [Ruby](https://github.com/personnummer/ruby)
+  + [JavaScript](https://github.com/jonathanp/swedish-personal-identity-number-validator)
   + [JavaScript](https://github.com/arokor/pernr)
   + [JavaScript](https://github.com/personnummer/js)
   + [Python](https://github.com/personnummer/python)
@@ -121,6 +122,13 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [C#](https://github.com/piksel/SMHISharp)
   + [JavaScript](https://github.com/thelinmichael/smhi-node)
   + [JavaScript](https://github.com/peterstark72/smhi-nodejs)
+- Phone number formatter
+  + [JavaScript](https://github.com/jonathanp/swedish-phone-number-formatter)
+- Postal code validator
+  + [JavaScript](https://github.com/jonathanp/swedish-postal-code-validator)
+- Cardinal number converter
+  + [JavaScript](https://github.com/jonathanp/swedish-cardinal-numbers)
+
 
 ## Wish list
 
