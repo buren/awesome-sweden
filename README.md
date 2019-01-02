@@ -112,6 +112,8 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 ## Misc
 
+- Kolada API - KPIs concerning Swedish municipalities and organizational units
+  + [JavaScript](https://github.com/buren/kolada)
 - Polisen API
   + [JavaScript](https://github.com/buren/polisen-api) - events and police stations
 - SCB API (Statistiska Centralbyrån)
