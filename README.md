@@ -58,6 +58,8 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [Ruby](https://github.com/barsoom/debitech)
 - Parse and generate SIE-files (open format for accounting data)
   + [Ruby](https://github.com/barsoom/sie)
+- Retrieve interest and exchange rates from the Swedish central bank
+  + [Go](https://github.com/zeeraw/riksbank)
 
 ## Authentication
 
