@@ -133,6 +133,8 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [JavaScript](https://github.com/jonathanp/swedish-postal-code-validator)
 - Cardinal number converter
   + [JavaScript](https://github.com/jonathanp/swedish-cardinal-numbers)
+- Booli API
+  + [JavaScript](https://github.com/filipchr/node-booli)
 
 
 ## Wish list
@@ -146,7 +148,7 @@ Libraries and other things we wished existed or haven't heard of yet.
 - API Clients
   + [Statistikdatabasen](http://www.scb.se/om-scb/om-scb.se-och-anvandningsvillkor/oppna-data-api/api-for-statistikdatabasen/) (SCB)
   + APIs listed at https://www.trafiklab.se/api
-- Hemnet & Booli API
+- Hemnet
 - PostNord API
 - ... anything you'd like to add?
 
