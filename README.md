@@ -5,6 +5,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## Content
 
 - [People](#people)
+- [Companies](#companies)
 - [Finance](#finance)
 - [Authentication](#authentication)
 - [Job Market](#job-market)
@@ -36,13 +37,17 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Identity) (Also parses and normalizes the Personal Identity Number)
   + [Go](https://github.com/personnummer/go)
   + Various other implementations are available under [this GitHub organization](https://github.com/personnummer), please note that some listed there are still WIP.
-- Validate Swedish organization number/organisationsnummer
+- Statens personadressregister
+  + [JavaScript](https://github.com/Yepstr/node-statenspersonadressregister)
+  + [Reference implementations (PHP/C#/Java)](https://github.com/Statenspersonadressregister)
+
+## Companies
+
+- Validate Swedish Company Registration Number (organisationsnummer)
   + [Ruby](https://github.com/mirendo/orgnummer)
   + [JavaScript](https://github.com/perarnborg/se-org-no)
   + [PHP](https://github.com/byrokrat/id)
-- Statenspersonadressregister
-  + [JavaScript](https://github.com/Yepstr/node-statenspersonadressregister)
-  + [Reference implementations (PHP/C#/Java)](https://github.com/Statenspersonadressregister)
+  + [JavaScript](https://github.com/eckberg/se-orgnr-validator)
 
 ## Finance
 
