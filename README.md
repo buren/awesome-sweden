@@ -57,6 +57,8 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [JavaScript](https://github.com/carlbarrdahl/swish-payments) &mdash; Not actively [being maintained](https://github.com/buren/awesome-sweden/issues/15).
 - Validate Swedish bank accounts
   + [Ruby](https://github.com/barsoom/banktools-se)
+  + [PHP](https://github.com/brocc-ab/se-bank-account-php)
+  + [JavaScript](https://github.com/brocc-ab/se-bank-account-js)
 - Make BGC supplier payment files (a.k.a "leverantörsbetalningar")
   + [Ruby](https://github.com/barsoom/supplier_payments)
 - Payments using DebiTech (DIBS)
@@ -146,7 +148,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 Libraries and other things we wished existed or haven't heard of yet.
 
-- Bank account validation in more languages than Ruby
+- Bank account validation in more languages
 - BankID tools in more languages
 - [Swish](https://www.swish.nu/)
 - Zip/Postnummer reverse lookup
