@@ -148,10 +148,10 @@ Libraries and other things we wished existed or haven't heard of yet.
 
 - Bank account validation in more languages than Ruby
 - BankID tools in more languages
-- [Swish](https://www.getswish.se/)
+- [Swish](https://www.swish.nu/)
 - Zip/Postnummer reverse lookup
 - API Clients
-  + [Statistikdatabasen](http://www.scb.se/om-scb/om-scb.se-och-anvandningsvillkor/oppna-data-api/api-for-statistikdatabasen/) (SCB)
+  + [Statistikdatabasen](https://www.scb.se/vara-tjanster/oppna-data/) (SCB)
   + APIs listed at https://www.trafiklab.se/api
 - Hemnet
 - PostNord API
