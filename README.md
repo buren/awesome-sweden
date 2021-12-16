@@ -36,6 +36,7 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [Java](https://github.com/personnummer/java)
   + [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Identity) (Also parses and normalizes the Personal Identity Number)
   + [Go](https://github.com/personnummer/go)
+  + [Go](https://github.com/bombsimon/go-personnummer)
   + Various other implementations are available under [this GitHub organization](https://github.com/personnummer), please note that some listed there are still WIP.
 - Statens personadressregister
   + [JavaScript](https://github.com/Yepstr/node-statenspersonadressregister)
@@ -48,6 +49,7 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [JavaScript](https://github.com/perarnborg/se-org-no)
   + [PHP](https://github.com/byrokrat/id)
   + [JavaScript](https://github.com/eckberg/se-orgnr-validator)
+  + [Go](https://github.com/bombsimon/go-personnummer)
 
 ## Finance
 
@@ -138,12 +140,16 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [JavaScript](https://github.com/jonathanp/swedish-phone-number-formatter)
 - Postal code validator
   + [JavaScript](https://github.com/jonathanp/swedish-postal-code-validator)
+  + [Go](https://github.com/bombsimon/swedish-zipcode)
+  + [Rust](https://github.com/bombsimon/swedish-postal-codes)
 - Postal code lookup
   + [JavaScript](https://github.com/vzhufk/z1p)
 - Cardinal number converter
   + [JavaScript](https://github.com/jonathanp/swedish-cardinal-numbers)
 - Booli API
   + [JavaScript](https://github.com/filipchr/node-booli)
+- Hemnet
+  + [PHP WordPress plugin](https://github.com/bombsimon/hemnet-plugin)
 
 
 ## Wish list
@@ -188,4 +194,4 @@ then
 
 ---
 
-[![Build Status](https://travis-ci.com/buren/awesome-sweden.svg?branch=master)](https://travis-ci.com/buren/awesome-sweden) passing build means all URLs are 200.
+[![Build Status](https://app.travis-ci.com/buren/awesome-sweden.svg?branch=master)](https://app.travis-ci.com/buren/awesome-sweden) passing build means all URLs are 200.
