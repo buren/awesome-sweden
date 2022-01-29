@@ -73,6 +73,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## Authentication
 
 - Authentication using BankID
+  + [JavaScript](https://github.com/anyfin/bankid) by [Anyfin](https://anyfin.com/)
   + [.NET (C# / F#)](https://github.com/ActiveLogin/ActiveLogin.Authentication) (With authentication handler for ASP.NET)
   + [Android](https://github.com/spacecowboy/bankid-android-sample) (Sample implementation)
 - Authentication using GrandID (Svensk E-Identitet)
