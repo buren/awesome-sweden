@@ -1,7 +1,6 @@
 language: ruby
 rvm:
   - 3.1.0
-  - 2.7.0
 install:
   - gem install nokogiri
   - gem install verify_urls
