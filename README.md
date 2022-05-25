@@ -26,7 +26,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 - Validate Swedish Personal Identity Number (personnummer / SSN)
   + [Ruby](https://github.com/c7/personnummer) (well tested)
   + [Ruby](https://github.com/personnummer/ruby)
-  + [JavaScript](https://github.com/jonathanp/swedish-personal-identity-number-validator)
+  + [JavaScript](https://github.com/svenheden/swedish-personal-identity-number-validator)
   + [JavaScript](https://github.com/arokor/pernr)
   + [JavaScript](https://github.com/personnummer/js)
   + [Python](https://github.com/personnummer/python)
