@@ -92,7 +92,8 @@ A curated list of awesome things to use when coding for the Swedish market.
 ## Transportation
 
 - SL API
-  + [JavaScript](https://github.com/simon-johansson/SL-api)
+  + [Javascript](https://github.com/rebelliard/stockholm-transit-api)
+  + [JavaScript](https://github.com/simon-johansson/SL-api) - :warning: No commits in years
   + [Go](https://github.com/frozzare/go-sl)
 - Västtrafik API
   + [JavaScript](https://github.com/oskarhagberg/node-vasttrafik)
