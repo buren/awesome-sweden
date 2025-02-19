@@ -152,7 +152,8 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [JavaScript](https://github.com/filipchr/node-booli)
 - Hemnet
   + [PHP WordPress plugin](https://github.com/bombsimon/hemnet-plugin)
-
+- Blocket
+  + [Python](https://github.com/dunderrrrrr/blocket_api)
 
 ## Wish list
 
