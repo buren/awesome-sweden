@@ -146,6 +146,8 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [Rust](https://github.com/bombsimon/swedish-postal-codes)
 - Postal code lookup
   + [JavaScript](https://github.com/vzhufk/z1p)
+- Postnord
+  + [Python](https://github.com/dunderrrrrr/postnord_api)
 - Cardinal number converter
   + [JavaScript](https://github.com/jonathanp/swedish-cardinal-numbers)
 - Booli API
