@@ -21,6 +21,11 @@ A curated list of awesome things to use when coding for the Swedish market.
 - Looking for datasets? See [Awesome Sweden Datasets](https://github.com/buren/awesome-sweden-datasets).
 - If you're looking to add a library please check the [contributing guide](#contributing).
 
+## AI
+
+- Transcribe Swedish
+  + [KB-Whisper](https://github.com/PierreMesure/whisper-web)
+
 ## People
 
 - Validate Swedish Personal Identity Number (personnummer / SSN)
