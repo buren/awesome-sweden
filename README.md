@@ -13,6 +13,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 - [Regional](#regional)
 - [Geographic](#geographic)
 - [Media](#media)
+- [Construction](#construction)
 - [Misc](#misc)
 - :link: [Awesome Sweden Datasets](https://github.com/buren/awesome-sweden-datasets)
 - A __[wish list](#wish-list)__ of things we'd like to see libraries for
@@ -129,6 +130,16 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [Go](https://github.com/TV4/mms)
 - Translates SAB (Swedish library classification system) codes to, human readable, Swedish subject
   + [Ruby](https://github.com/c7/ur-sab)
+
+## Construction
+
+- [ROT-avdrag calculator](https://github.com/zaragoza-ab/rot-avdrag-calculator) - Interactive 2026 ROT tax deduction calculator (HTML/JS)
+- [RUT-avdrag calculator](https://github.com/zaragoza-ab/rut-avdrag-calculator) - Interactive 2026 RUT tax deduction calculator (HTML/JS)
+- [Entreprenör verification tool](https://github.com/zaragoza-ab/entreprenor-verification-tool) - 9-step checklist for verifying Swedish construction firms (F-skatt, insurance, ID06, references)
+- [Bygglov checklist](https://github.com/zaragoza-ab/bygglov-checklist-sweden) - Building permit checklist for Swedish kommuner (focused on Skåne)
+- [Personalliggare template](https://github.com/zaragoza-ab/personalliggare-template) - Skatteverket-compliant personnel ledger (HTML form + CSV/JSON schema)
+- [Arbetsmiljöplan template](https://github.com/zaragoza-ab/arbetsmiljoplan-template) - AFS 1999:3 work environment plan template
+- [Omvänd moms guide](https://github.com/zaragoza-ab/omvand-moms-bygg-guide) - Reverse-charge VAT guide with invoice templates
 
 ## Misc
 
