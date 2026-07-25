@@ -58,6 +58,7 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [Go](https://github.com/bombsimon/go-personnummer)
 
 ## Finance
+- [Frilanskalkylatorn](https://kalkylator.gracestack.se) — Swedish freelance rate calculator. Computes hourly rates factoring in taxes, employer fees, vacation, and pension. Free, with optional PDF offer.
 
 - Swish Merchant API
   + [Go](https://github.com/frozzare/go-swish)
