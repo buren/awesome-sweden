@@ -187,6 +187,29 @@ Libraries and other things we wished existed or haven't heard of yet.
 - PostNord API
 - ... anything you'd like to add?
 
+## GitHub Actions
+
+GitHub Actions for Swedish market CI/CD workflows. All are Node.js with zero external dependencies.
+
+* Personnummer & Identity
+  + [swedish-personnummer-action](https://github.com/cedendahlkim/swedish-personnummer-action) — Validate personnummer (Luhn), samordningsnummer, interimsnummer
+  + [swedish-ssn-info-action](https://github.com/cedendahlkim/swedish-ssn-info-action) — 12 output fields: age, gender, county (historical), zodiac, milestones
+* Companies & Finance
+  + [swedish-orgnummer-action](https://github.com/cedendahlkim/swedish-orgnummer-action) — Validate organisationsnummer with legal form detection
+  + [swedish-bankgiro-action](https://github.com/cedendahlkim/swedish-bankgiro-action) — Validate Bankgiro (7-8 digits, Mod-10, bank name lookup) and PlusGiro
+  + [swedish-tax-action](https://github.com/cedendahlkim/swedish-tax-action) — ISK tax, salary tax, VAT (moms), capital gains in CI/CD
+  + [swedish-vat-action](https://github.com/cedendahlkim/swedish-vat-action) — MOMS calculation: add/remove/extract 25%/12%/6%
+  + [swedish-salary-action](https://github.com/cedendahlkim/swedish-salary-action) — Swedish salary with arbetsgivaravgift (31.42%) and semesterersättning (12%)
+  + [swedish-currency-action](https://github.com/cedendahlkim/swedish-currency-action) — SEK currency conversion (25 currencies)
+* Location & Contact
+  + [swedish-coordinates-action](https://github.com/cedendahlkim/swedish-coordinates-action) — RT90/SWEREF99/WGS84 coordinate conversion
+  + [swedish-postal-code-action](https://github.com/cedendahlkim/swedish-postal-code-action) — Validate postal codes + city/kommun/län lookup
+  + [swedish-phone-number-action](https://github.com/cedendahlkim/swedish-phone-number-action) — Validate Swedish phone numbers (mobile/landline/020/0900), carrier lookup
+* Utilities
+  + [swedish-holiday-checker](https://github.com/cedendahlkim/swedish-holiday-checker) — Check if today is a Swedish röd dag (public holiday) in CI/CD
+* Composite
+  + [swedish-dev-toolkit](https://github.com/cedendahlkim/swedish-dev-toolkit) — Meta-action wrapping all 12 Swedish dev tools
+
 ## Contributing
 
 Contributions, feedback and suggestions are very welcome.
