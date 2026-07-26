@@ -75,6 +75,11 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [Ruby](https://github.com/barsoom/sie)
 - Retrieve interest and exchange rates from the Swedish central bank
   + [Go](https://github.com/zeeraw/riksbank)
+- [Svensk Skatte-API](https://skatteapi.gracestack.se) — Swedish tax calculations: ISK, VAT, income tax, employer contributions
+  + [Interactive demo](https://skatteapi.gracestack.se/demo-page)
+  + [Python client](https://github.com/cedendahlkim/svensk-skatt-client)
+  + [OpenAPI 3.1 spec](https://skatteapi.gracestack.se/openapi.json)
+
 
 ## Authentication
 
