@@ -59,6 +59,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 ## Finance
 
+- [Swedish Holidays API](https://helgdagar.gracestack.se) — Swedish public holidays (röda dagar) and workday calculations
 - Swish Merchant API
   + [Go](https://github.com/frozzare/go-swish)
   + [Rust](https://github.com/drager/swish)
