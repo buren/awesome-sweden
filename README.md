@@ -26,6 +26,8 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 - Transcribe Swedish
   + [KB-Whisper](https://github.com/PierreMesure/whisper-web)
+- Free AI Chat (Qwen3-32B, no signup)
+  + [Web](https://tools.gracestack.se/chat.html) - AI chat powered by Qwen3-32B on Azure A100 GPUs, free tier 5 messages/day, no registration required
 
 ## People
 
@@ -56,6 +58,7 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [PHP](https://github.com/byrokrat/id)
   + [JavaScript](https://github.com/eckberg/se-orgnr-validator)
   + [Go](https://github.com/bombsimon/go-personnummer)
+  + [Web](https://tools.gracestack.se/organisationsnummer.html) - Organisationsnummer Sök & Validering med Luhn-kontroll, bolagsform, VAT-format och 21 svenska län (gratis) + API (Pro 49kr/mån)
 
 ## Finance
 
