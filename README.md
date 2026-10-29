@@ -172,6 +172,8 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [PHP WordPress plugin](https://github.com/bombsimon/hemnet-plugin)
 - Blocket
   + [Python](https://github.com/dunderrrrrr/blocket_api)
+- Budna
+  + [Rust MCP server](https://github.com/budna-marketplace/mcp) - read-only listing search for AI assistants
 
 ## Wish list
 
