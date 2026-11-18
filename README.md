@@ -75,6 +75,8 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [Ruby](https://github.com/barsoom/sie)
 - Retrieve interest and exchange rates from the Swedish central bank
   + [Go](https://github.com/zeeraw/riksbank)
+- Validate Peppol BIS Billing 3.0 e-invoices (the EN 16931 format Swedish public-sector buyers receive via Peppol)
+  + [Node.js CLI / GitHub Action](https://github.com/kalmwerk/peppol-ubl-check) (offline; includes Peppol's organisationsnummer check, not the Swedish SE-R rules)
 
 ## Authentication
 
