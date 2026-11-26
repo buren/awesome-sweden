@@ -123,6 +123,7 @@ A curated list of awesome things to use when coding for the Swedish market.
 
 - [SWEREF99 TM (EPSG:3006)](https://epsg.io/3006) projected coordinate system
   + [JavaScript](https://kartena.github.io/Proj4Leaflet)
+- [Outdoor gyms and exercise tracks in Sweden](https://github.com/oskaradolfsson/utegym-sverige) - 2,162 utegym, elljusspår and ski tracks with coordinates for all 290 municipalities (OpenStreetMap, ODbL, CSV/JSON). Per-municipality index: [utegymsindex](https://github.com/oskaradolfsson/utegymsindex)
 
 ## Media
 
